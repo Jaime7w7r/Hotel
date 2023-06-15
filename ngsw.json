@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1686816239750,
+  "timestamp": 1686820837147,
   "index": "https://Jaime7w7r.github.io/Hotel/index.html",
   "assetGroups": [
     {
@@ -13,13 +13,13 @@
       "urls": [
         "https://Jaime7w7r.github.io/Hotel/favicon.ico",
         "https://Jaime7w7r.github.io/Hotel/index.html",
-        "https://Jaime7w7r.github.io/Hotel/main.f23a7dc5fad9b8ad.js",
+        "https://Jaime7w7r.github.io/Hotel/main.f1456143ec7e7b8d.js",
         "https://Jaime7w7r.github.io/Hotel/manifest.webmanifest",
         "https://Jaime7w7r.github.io/Hotel/polyfills.56f3731a0ededcdb.js",
         "https://Jaime7w7r.github.io/Hotel/runtime.1ba1df9c73e53f90.js",
         "https://Jaime7w7r.github.io/Hotel/scripts.c91eedceb4883133.js",
         "https://Jaime7w7r.github.io/Hotel/service-worker.js",
-        "https://Jaime7w7r.github.io/Hotel/styles.be30f011b714a73f.css"
+        "https://Jaime7w7r.github.io/Hotel/styles.32974a26e2ed472f.css"
       ],
       "patterns": []
     },
@@ -169,8 +169,8 @@
     "https://Jaime7w7r.github.io/Hotel/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://Jaime7w7r.github.io/Hotel/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "https://Jaime7w7r.github.io/Hotel/icon.ce0d345ae44566e8.png": "0e70c5e3912542cb7ec8dcba2ec22af2187a96f6",
-    "https://Jaime7w7r.github.io/Hotel/index.html": "cb952ff19cad69de894eeb589d7bb29d1fbd50aa",
-    "https://Jaime7w7r.github.io/Hotel/main.f23a7dc5fad9b8ad.js": "69a530fec84a995856a2c62c30418a28cbeaaa2e",
+    "https://Jaime7w7r.github.io/Hotel/index.html": "1a38de91ff802efd3511d3705bab4f210e961836",
+    "https://Jaime7w7r.github.io/Hotel/main.f1456143ec7e7b8d.js": "b2ed36c8c0d1d35022303ae6fcab50ed2bf5b991",
     "https://Jaime7w7r.github.io/Hotel/manifest.webmanifest": "53aa5cb28a5a1e1ef46ab77fc607338a7b463d7c",
     "https://Jaime7w7r.github.io/Hotel/neILzCirqoswsqX9zoKmMw.9a93abadcae4526e.woff2": "767246e4c7df1b6c32f590c16c135808382b1aba",
     "https://Jaime7w7r.github.io/Hotel/polyfills.56f3731a0ededcdb.js": "c144424d5f580a0c3815f9b03bbbacb590fad23e",
@@ -181,7 +181,7 @@
     "https://Jaime7w7r.github.io/Hotel/runtime.1ba1df9c73e53f90.js": "1588c9ce0b3b6374133e1b55fd11b5d0561d46f3",
     "https://Jaime7w7r.github.io/Hotel/scripts.c91eedceb4883133.js": "6ba74230f51147bf9c36876f677467b57cb7883d",
     "https://Jaime7w7r.github.io/Hotel/service-worker.js": "128ebb3511a7897967dc12fae99c4c5623439396",
-    "https://Jaime7w7r.github.io/Hotel/styles.be30f011b714a73f.css": "a9b986434659b154c476584925993b6dd3d9e4a1"
+    "https://Jaime7w7r.github.io/Hotel/styles.32974a26e2ed472f.css": "84bb5fc8cbc23da725c0853bfb570617276b7c53"
   },
   "navigationUrls": [
     {
